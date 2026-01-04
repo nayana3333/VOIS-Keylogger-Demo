@@ -1,0 +1,12 @@
+[
+    {"Pressed": "Key.shift"},
+    {"Held": "Key.shift"},
+    {"Released": "Key.shift"},
+    {"Pressed": "'h'"},
+    {"Released": "'h'"},
+    {"Pressed": "'e'"},
+    {"Released": "'e'"},
+    {"Pressed": "'l'"},
+    {"Held": "'l'"},
+    {"Released": "'l'"}
+]
