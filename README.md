@@ -16,6 +16,5 @@ Tkinter to start the keylogging process.
 - logs.txt : Stores keystrokes in text format
 - logs.json : Stores keystrokes in structured JSON format
 
-## Purpose
-This project is developed strictly for educational and cybersecurity awareness
-purposes as part of the VOIS Edunet Program.
+
+
